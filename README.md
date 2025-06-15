@@ -4,7 +4,7 @@
 ## Gambaran Umum
 Proyek ini berfokus pada prediksi Customer Lifetime Value (CLV), metrik penting yang mengestimasi total nilai yang dibawa pelanggan kepada perusahaan selama hubungan mereka. Dengan menganalisis CLV, perusahaan dapat mengidentifikasi pelanggan berharga, mengoptimalkan strategi pemasaran, dan meningkatkan profitabilitas jangka panjang. Inspirasi proyek ini diambil dari Gupta et al. (2006), yang menunjukkan bahwa biaya akuisisi pelanggan baru bisa 5-25 kali lebih tinggi dibandingkan biaya retensi pelanggan, dengan peningkatan retensi 5% dapat meningkatkan keuntungan 25-95%.
 ## Tujuan
-Tujuan utama adalah mengembangkan model prediksi CLV yang akurat untuk mengalokasikan sumber daya secara efisien pada akuisisi dan retensi pelanggan, sehingga mendukung pertumbuhan berkelanjutan. Proyek ini menggunakan model RandomForest, mencapai RMSE 4118.35, jauh di bawah standar deviasi data 6916.71, dengan MAPE 11.8%.
+Tujuan utama adalah mengembangkan model prediksi CLV yang akurat untuk mengalokasikan sumber daya secara efisien pada akuisisi dan retensi pelanggan, sehingga mendukung pertumbuhan berkelanjutan. 
 ## Fitur
 
 1. Memprediksi CLV berdasarkan data pelanggan.
